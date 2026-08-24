@@ -22,13 +22,28 @@
       "name": "Pull Shark",
       "status": "action-completed",
       "target": 2,
-      "completed": 2,
+      "completed": 35,
+      "public_completed": 5,
+      "private_completed": 30,
+      "tiers_qualified": [
+        {
+          "name": "base",
+          "target": 2
+        },
+        {
+          "name": "bronze",
+          "target": 16
+        }
+      ],
       "evidence": [
         "https://github.com/WhiteCranee/gitachiev/pull/2",
         "https://github.com/WhiteCranee/gitachiev/pull/3",
+        "https://github.com/WhiteCranee/gitachiev/pull/4",
+        "https://github.com/WhiteCranee/gitachiev/pull/5",
+        "https://github.com/WhiteCranee/gitachiev/pull/6",
         "https://github.com/community/community/discussions/203416#discussioncomment-18135598"
       ],
-      "note": "The badge is pending during an active GitHub achievement-indexing incident."
+      "note": "Private contributions are visible on the public contribution calendar; the badge and expected bronze tier are pending during an active GitHub achievement-indexing incident."
     },
     {
       "name": "Pair Extraordinaire",
