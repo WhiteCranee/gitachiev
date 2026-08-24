@@ -42,7 +42,12 @@
       "status": "needs-accepted-answers",
       "target": 2,
       "completed": 0,
-      "note": "Answers must be useful and accepted by the question authors."
+      "submitted": 2,
+      "evidence": [
+        "https://github.com/community/community/discussions/205695#discussioncomment-18135651",
+        "https://github.com/community/community/discussions/205614#discussioncomment-18135654"
+      ],
+      "note": "Two useful answers are posted; the question authors decide whether to accept them."
     },
     {
       "name": "Starstruck",
