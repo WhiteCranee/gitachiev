@@ -11,9 +11,10 @@
     },
     {
       "name": "Quickdraw",
-      "status": "action-completed",
+      "status": "earned",
       "evidence": [
-        "https://github.com/WhiteCranee/gitachiev/issues/1"
+        "https://github.com/WhiteCranee/gitachiev/issues/1",
+        "https://github.com/WhiteCranee?tab=achievements"
       ],
       "note": "The issue was closed less than five minutes after it was opened."
     },
@@ -24,9 +25,56 @@
       "completed": 2,
       "evidence": [
         "https://github.com/WhiteCranee/gitachiev/pull/2",
-        "https://github.com/WhiteCranee/gitachiev/pull/3"
+        "https://github.com/WhiteCranee/gitachiev/pull/3",
+        "https://github.com/community/community/discussions/203416#discussioncomment-18135598"
       ],
-      "note": "GitHub may take time to display an achievement after its requirements are met."
+      "note": "The badge is pending during an active GitHub achievement-indexing incident."
+    },
+    {
+      "name": "Pair Extraordinaire",
+      "status": "needs-real-collaborator",
+      "target": 1,
+      "completed": 0,
+      "note": "The audit found no co-authored commits across 32 merged pull requests."
+    },
+    {
+      "name": "Galaxy Brain",
+      "status": "needs-accepted-answers",
+      "target": 2,
+      "completed": 0,
+      "note": "Answers must be useful and accepted by the question authors."
+    },
+    {
+      "name": "Starstruck",
+      "status": "needs-organic-stars",
+      "target": 16,
+      "completed": 0,
+      "note": "No owned public repository currently has a star."
+    },
+    {
+      "name": "Public Sponsor",
+      "status": "needs-payment-authorization",
+      "target": 1,
+      "completed": 0,
+      "note": "The account has no sponsorships; a recipient and payment require owner approval."
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Heart On Your Sleeve",
+      "reason": "Experimental and not generally available"
+    },
+    {
+      "name": "Open Sourcerer",
+      "reason": "Experimental and not generally available"
+    },
+    {
+      "name": "Arctic Code Vault Contributor",
+      "reason": "Past event; no longer earnable"
+    },
+    {
+      "name": "Mars 2020 Helicopter Contributor",
+      "reason": "Past event; no longer earnable"
     }
   ]
 }

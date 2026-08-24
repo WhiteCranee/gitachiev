@@ -3,20 +3,27 @@
 A transparent tracker for earning GitHub achievements through genuine repository
 work. Each completed action links to the event that should qualify it.
 
-## Current hunt
+## Claimability audit
 
-| Achievement | Requirement | Progress |
+| Achievement | Base requirement | Status |
 | --- | --- | --- |
-| Quickdraw | Close an issue or pull request within five minutes | [Issue #1](https://github.com/WhiteCranee/gitachiev/issues/1) opened and closed promptly |
-| Pull Shark | Have two pull requests merged | [PR #2](https://github.com/WhiteCranee/gitachiev/pull/2) and [PR #3](https://github.com/WhiteCranee/gitachiev/pull/3) merged |
-| Pair Extraordinaire | Co-author work that is merged through a pull request | Waiting for a real collaborator |
-| Galaxy Brain | Have two answers accepted in GitHub Discussions | Best pursued by answering genuine questions |
-| Starstruck | Own a repository that reaches 16 stars | Build something useful enough to earn them |
+| YOLO | Merge a pull request without a review | Earned and visible |
+| Quickdraw | Close an issue or pull request within five minutes | Earned and visible through [issue #1](https://github.com/WhiteCranee/gitachiev/issues/1) |
+| Pull Shark | Have two pull requests merged | Qualifying action complete through [PR #2](https://github.com/WhiteCranee/gitachiev/pull/2) and [PR #3](https://github.com/WhiteCranee/gitachiev/pull/3); reported to the [active indexing incident](https://github.com/community/community/discussions/203416#discussioncomment-18135598) |
+| Pair Extraordinaire | Co-author a commit in a merged pull request | Needs a real collaborator; no co-authored commits found in the account audit |
+| Galaxy Brain | Have two replies accepted as Discussion answers | Needs other question authors to accept two useful answers; current count is 0 |
+| Starstruck | Own a repository that receives 16 stars | Needs organic interest from 16 other accounts; current highest count is 0 |
+| Public Sponsor | Sponsor an eligible account through GitHub Sponsors | Needs the account owner to select a recipient and authorize payment |
+
+Heart On Your Sleeve and Open Sourcerer are experimental and not generally
+available. Arctic Code Vault Contributor and Mars 2020 Helicopter Contributor
+were tied to past events and can no longer be earned.
 
 ## Ground rules
 
 - Every issue and pull request must leave the repository better than it was.
 - No fabricated collaborators, stars, reactions, or discussion answers.
+- No payment is made without the account owner's explicit approval.
 - Achievement processing is controlled by GitHub and may not be immediate.
 
 The same progress is available in [`achievements.json`](achievements.json) for
