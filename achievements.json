@@ -41,10 +41,9 @@
         "https://github.com/WhiteCranee/gitachiev/pull/4",
         "https://github.com/WhiteCranee/gitachiev/pull/5",
         "https://github.com/WhiteCranee/gitachiev/pull/6",
-        "https://github.com/WhiteCranee/gitachiev/pull/7",
-        "https://github.com/community/community/discussions/203416#discussioncomment-18135598"
+        "https://github.com/WhiteCranee/gitachiev/pull/7"
       ],
-      "note": "Private contributions are visible on the public contribution calendar; the badge and expected bronze tier are pending during an active GitHub achievement-indexing incident."
+      "note": "Private contributions are visible on the public contribution calendar; the badge and expected bronze tier are pending GitHub processing."
     },
     {
       "name": "Pair Extraordinaire",
@@ -58,12 +57,8 @@
       "status": "needs-accepted-answers",
       "target": 2,
       "completed": 0,
-      "submitted": 2,
-      "evidence": [
-        "https://github.com/community/community/discussions/205695#discussioncomment-18135651",
-        "https://github.com/community/community/discussions/205614#discussioncomment-18135654"
-      ],
-      "note": "Two useful answers are posted; the question authors decide whether to accept them."
+      "submitted": 0,
+      "note": "No answers are currently submitted or accepted."
     },
     {
       "name": "Starstruck",

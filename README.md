@@ -9,9 +9,9 @@ work. Each completed action links to the event that should qualify it.
 | --- | --- | --- |
 | YOLO | Merge a pull request without a review | Earned and visible |
 | Quickdraw | Close an issue or pull request within five minutes | Earned and visible through [issue #1](https://github.com/WhiteCranee/gitachiev/issues/1) |
-| Pull Shark | Have two pull requests merged | 36 merged PRs audited (6 public and 30 private), which crosses the base and 16-merge tier thresholds; the missing badge is reported to the [active indexing incident](https://github.com/community/community/discussions/203416#discussioncomment-18135598) |
+| Pull Shark | Have two pull requests merged | 36 merged PRs audited (6 public and 30 private), which crosses the base and 16-merge tier thresholds; the missing badge is pending GitHub processing |
 | Pair Extraordinaire | Co-author a commit in a merged pull request | Needs a real collaborator; no co-authored commits found in the account audit |
-| Galaxy Brain | Have two replies accepted as Discussion answers | Two useful answers submitted ([Codespaces usage](https://github.com/community/community/discussions/205695#discussioncomment-18135651), [Git tag dates](https://github.com/community/community/discussions/205614#discussioncomment-18135654)); awaiting acceptance by the question authors |
+| Galaxy Brain | Have two replies accepted as Discussion answers | No accepted answers; current count is 0 |
 | Starstruck | Own a repository that receives 16 stars | Needs organic interest from 16 other accounts; current highest count is 0 |
 | Public Sponsor | Sponsor an eligible account through GitHub Sponsors | Needs the account owner to select a recipient and authorize payment |
 
