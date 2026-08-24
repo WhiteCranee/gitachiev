@@ -1,0 +1,32 @@
+{
+  "profile": "WhiteCranee",
+  "last_verified": "2026-08-24",
+  "achievements": [
+    {
+      "name": "YOLO",
+      "status": "earned",
+      "evidence": [
+        "https://github.com/WhiteCranee?tab=achievements"
+      ]
+    },
+    {
+      "name": "Quickdraw",
+      "status": "action-completed",
+      "evidence": [
+        "https://github.com/WhiteCranee/gitachiev/issues/1"
+      ],
+      "note": "The issue was closed less than five minutes after it was opened."
+    },
+    {
+      "name": "Pull Shark",
+      "status": "action-completed",
+      "target": 2,
+      "completed": 2,
+      "evidence": [
+        "https://github.com/WhiteCranee/gitachiev/pull/2",
+        "https://github.com/WhiteCranee/gitachiev/pull/3"
+      ],
+      "note": "GitHub may take time to display an achievement after its requirements are met."
+    }
+  ]
+}
